@@ -1,0 +1,21 @@
+Nel primo esercizio devo trovare il perimetro del quadrato
+dichiaro come oggetto col nome Lato e avrà come risultato un numero decimale e inserirò la variabile Float
+io voglio inserire liberamente un numero quindi Input nella stringa voglio inserire un messaggio "Inserisci il lato del rettangolo: "
+Quindi do il nome all'oggetto Perimetro e inserisco il calcolo matematico Perimetro= Lato*4 perchè egli ha quattro lati uguali.
+visualizzo il risultato con print("Il perimetro del quadrato è: ", Perimetro ")
+
+Nel secondo invece devo trovare la circonferenza del cerchio
+Dichiaro oggetto Raggio inserisco Float e input se voglio avere a che fare con i decimali e inserire i numeri e alla stringa il messaggio
+"Inserisci il Raggio"
+Poi dichiaro oggetto Circonferenza e devo trovare il risultato grazie al pigreco quindi Circonferenza = 2*3,14*Raggio
+Poi visualizzo il risultato con print("La circonferenza del cerchio è: ", Circonferenza ")
+
+Nel terzo esercizio devo trovare il perimetro del Rettangolo
+dichiaro come oggetto col nome Base e avrà come risultato un numero decimale e inserirò la variabile Float
+io voglio inserire liberamente un numero quindi Input nella stringa voglio inserire un messaggio "Inserisci la base del rettangolo: "
+dichiaro come oggetto col nome Altezza e avrà come risultato un numero decimale e inserirò la variabile Float
+io voglio inserire liberamente un numero quindi Input nella stringa voglio inserire un messaggio "Inserisci la base del rettangolo: "
+Quindi do il nome all'oggetto Perimetro e inserisco il calcolo matematico Perimetro= Base+Altezza*2
+visualizzo il risultato con print("Il perimetro del rettangolo è: ", Perimetro ")
+
+NB: Stranamente seppur la sintassi dell'esercizio del perimetro del rettangolo sia simile agli altri non è partito.
